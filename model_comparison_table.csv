@@ -1,0 +1,4 @@
+Experiment,Configuration,Test Accuracy
+Experiment 1,"16-8 neurons, relu, 20 epochs",0.9624999761581421
+Experiment 2,"32-16 neurons, relu, 20 epochs",0.9800000190734863
+Experiment 3,"16-8 neurons, tanh, 30 epochs",0.9825000166893005
